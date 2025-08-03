@@ -1,8 +1,8 @@
 {
-  "version": "0.3.0",
-  "build": "16",
-  "build_hash": "5a077a6",
-  "build_timestamp": "2025-08-03T09:46:03.265760+00:00",
+  "version": "0.4.0",
+  "build": "17",
+  "build_hash": "73c86ef",
+  "build_timestamp": "2025-08-03T10:22:35.117340+00:00",
   "url": "https://luft-koeln.github.io/ota/firmware.bin",
-  "sha256": "2ac9c693d4feb9a1274d34b01c3653aa0e7fc5e3e61e329dbccdc185922b4bd8"
+  "sha256": "058d447b6275de30a1e90c9b4f7f8429333ed15965981d7e6508bff5907e538c"
 }
