@@ -1,8 +1,8 @@
 {
   "version": "0.1.0",
-  "build": "11",
+  "build": "12",
   "build_hash": "c3d60da",
-  "build_timestamp": "2025-08-03T06:31:47.485676+00:00",
+  "build_timestamp": "2025-08-03T06:34:54.879399+00:00",
   "url": "https://github.com/luft-koeln/firmware-component-new/releases/download/v0.1.0/firmware.bin",
-  "sha256": "8c83a8bfe547f217230897f741e6fc21aaaedab2c8e0c15bbebb8b12a52425d3"
+  "sha256": "097094ba10b3e48fceeda9707ae2f088153844fed3b27f3b4f4abab494d6023c"
 }
